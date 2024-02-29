@@ -2,7 +2,7 @@ repo_name: todaypp/reactjs.org
 report_id: 6d15dd254fd4c9e76fa014014f765f63
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T13:15:54+00:00'
+timestamp: '2024-02-29T19:33:44+00:00'
 requested_by: bigfang
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Rachel Nabors
   last_updated_on: 2021-10-28 16:42:19.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.3
   open_source: true
@@ -193,7 +193,7 @@ tools:
   last_updated_by: Dan Abramov
   last_updated_on: 2021-11-06 19:58:12.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.4.1
   license: MIT
